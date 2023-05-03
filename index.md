@@ -6,3 +6,5 @@
 ###### Smallest
 
 This is paragraph.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
